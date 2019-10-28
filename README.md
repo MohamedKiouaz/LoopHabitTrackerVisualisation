@@ -12,4 +12,4 @@ Create visualisation of your Habits.
 
 ## Examples
 
-[Sport](Sport.pdf) and [8h of sleep](8h of sleep.pdf)
+[Sport](Sport.pdf) and [8h of sleep](8h_of_sleep.pdf)
