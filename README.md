@@ -9,3 +9,7 @@ Create visualisation of your Habits.
  3. Copy the Checkmark.csv next to the main.py
  4. Install the python packages in requirements.txt
  3. Run the script.
+
+## Examples
+
+[Sport](Sport.pdf) and [8h of sleep](8h of sleep.pdf)
